@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHgzOHNvam53ZDl1eGRkMnF2YTdvN2liY3ZkMXhmOW8wODF4djJ1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WqFqAGOStn4AD4ZK8G/giphy.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+.check{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    justify-self: center;
+    font-size: 20px;
+}
+.butt-div1{
+    display: flex;
+    justify-content: center;
+    margin: 9%;
+}
+.butt-div2{
+    display: flex;
+    justify-content: center;
+    margin: 9%;
+}
+.checkout{
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 5px;
+    background-color: black;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+    cursor: pointer;
+    
+
+}
+a{
+    text-decoration: none;
+
+}
