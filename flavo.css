@@ -2,6 +2,7 @@ body{
     background-image: url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHgzOHNvam53ZDl1eGRkMnF2YTdvN2liY3ZkMXhmOW8wODF4djJ1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WqFqAGOStn4AD4ZK8G/giphy.gif);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100vh;
     }
 .check{
     font-weight: bold;
